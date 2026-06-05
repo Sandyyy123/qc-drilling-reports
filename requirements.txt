@@ -1,0 +1,10 @@
+pdfplumber>=0.10.0
+PyMuPDF>=1.23.0
+lasio>=0.31
+pandas>=2.0.0
+numpy>=1.24.0
+pydantic>=2.0.0
+fastapi>=0.104.0
+uvicorn>=0.24.0
+python-multipart>=0.0.6
+pillow>=10.0.0
