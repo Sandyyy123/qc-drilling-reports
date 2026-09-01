@@ -1,3 +1,7 @@
+> **⚠️ Proprietary — All Rights Reserved.** © 2026 Sandeep Grover. This repository is licensed to Sandeep Grover and may **not** be used, run, copied, modified, distributed, or used to train models without prior written permission. Public visibility does not grant a license. See [LICENSE](LICENSE).
+
+---
+
 # DrillingQC Pro - Automated Report Validation Engine
 
 Automated QC tool for oil & gas field reports. Parses daily report PDFs, mudlog PDFs, and LAS files; applies a rubric of 34+ checks; flags deficiencies; and generates a scored structured output for crew correction and supervisor review.
